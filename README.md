@@ -15,7 +15,7 @@ Desenvolvedor Backend em formação. Focado em construir uma base sólida em eng
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
   />  
-  <img
+<img
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -23,7 +23,7 @@ Desenvolvedor Backend em formação. Focado em construir uma base sólida em eng
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
     />
-  <img 
+<img 
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -31,7 +31,7 @@ Desenvolvedor Backend em formação. Focado em construir uma base sólida em eng
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
     />
-  <img 
+<img 
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -39,14 +39,14 @@ Desenvolvedor Backend em formação. Focado em construir uma base sólida em eng
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"
     />
-    <img 
+<img 
     align="left" 
     alt="HTML"
     title="HTML" 
     width="40px" 
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
     />
-    <img
+<img
     align="left" 
     alt="HTML"
     title="HTML" 
