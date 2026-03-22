@@ -45,7 +45,7 @@ Sou um **Desenvolvedor Backend** em formação. Atualmente, estou construindo um
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" 
     />
     
-    ---
+---
 
 ## 🚀 Sobre Mim
 
