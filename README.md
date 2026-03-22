@@ -39,11 +39,24 @@
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" 
-    /><br>
+    />
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+    <br>
 
+Desenvolvedor Backend em formação. Focado em construir uma base sólida em engenharia de software e na resolução de problemas reais. Atualmente cursando Análise e Desenvolvimento de Sistemas (Unisinos) e o Técnico em Desenvolvimento de Sistemas (Senac).
 
-## 📫 Como entrar em contato comigo
+### Stack & Ferramentas
+Java • Kotlin • Spring Boot • MySQL • Linux
 
-- #### [Linkedin](https://www.linkedin.com/in/rafael-rossmann-dev/)
-- #### [E-mail](rafaelrossmann.dev@gmail.com)
-- #### [Instagram](https://www.instagram.com/rafaelrossmann_dev/)
+### Em que estou trabalhando
+- Aprofundando o domínio em **Java** através da construção de pequenos projetos e estudo constante de fundamentos.
+- Desenvolvendo o **Grão Literário**, um sistema de gestão integrado para uma livraria & cafeteria.
+
+### 📫 Como entrar em contato comigo
+
+[Linkedin](https://www.linkedin.com/in/rafael-rossmann-dev/) • [E-mail](rafaelrossmann.dev@gmail.com) • [Instagram](https://www.instagram.com/rafaelrossmann_dev/)
