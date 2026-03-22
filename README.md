@@ -43,7 +43,7 @@ Sou um **Desenvolvedor Backend** em formação. Atualmente, estou construindo um
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" 
-    />
+    /><br>
     
 ---
 
