@@ -1,4 +1,44 @@
-# Olá, eu sou o Rafael! 👋
+# Olá, eu sou o Rafael! 👋 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+  />
+  <img
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+    />
+  <img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
+    />
+  <img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />
+  <img
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" 
+    /><br>
 
 Sou um **Desenvolvedor Backend** em formação. Atualmente, estou construindo uma base sólida de conhecimentos para iniciar minha carreira na área de TI, valorizando os fundamentos da programação e a resolução de problemas reais.
 
