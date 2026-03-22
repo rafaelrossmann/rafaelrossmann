@@ -40,12 +40,12 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" 
     />
+    <img 
     align="left" 
     alt="HTML"
     title="HTML" 
     width="40px" 
-    style="padding-right: 10px;" 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
     <br>
 
 Desenvolvedor Backend em formação. Focado em construir uma base sólida em engenharia de software e na resolução de problemas reais. Atualmente cursando Análise e Desenvolvimento de Sistemas (Unisinos) e o Técnico em Desenvolvimento de Sistemas (Senac).
