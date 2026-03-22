@@ -1,7 +1,9 @@
 # Olá, eu sou o Rafael! 👋
 
 Sou um **Desenvolvedor Backend** em formação. Atualmente, estou construindo uma base sólida de conhecimentos para iniciar minha carreira na área de TI, valorizando os fundamentos da programação e a resolução de problemas reais.
+
 ---
+
 <img 
     align="left" 
     alt="HTML"
@@ -42,6 +44,7 @@ Sou um **Desenvolvedor Backend** em formação. Atualmente, estou construindo um
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" 
     />
+    
     ---
 
 ## 🚀 Sobre Mim
