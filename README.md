@@ -11,4 +11,4 @@ Java • MySQL • Docker • Git & GitHub • Intellij • Linux Ubuntu
 
 ### 📫 Como entrar em contato comigo
 
-#### [Linkedin](https://www.linkedin.com/in/rafael-rossmann-dev/) • #### [E-mail](rafaelrossmann.dev@gmail.com) • #### [Instagram](https://www.instagram.com/rafaelrossmann_dev/)
+#### [Linkedin](https://www.linkedin.com/in/rafael-rossmann-dev/) • [E-mail](rafaelrossmann.dev@gmail.com) • [Instagram](https://www.instagram.com/rafaelrossmann_dev/)
