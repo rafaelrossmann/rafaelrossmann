@@ -48,10 +48,12 @@
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
     <br>
 
+---
+
 Desenvolvedor Backend em formação. Focado em construir uma base sólida em engenharia de software e na resolução de problemas reais. Atualmente cursando Análise e Desenvolvimento de Sistemas (Unisinos) e o Técnico em Desenvolvimento de Sistemas (Senac).
 
 ### Stack & Ferramentas
-Java • Kotlin • Spring Boot • MySQL • Linux
+Java • MySQL • Docker • Git & GitHub • Intellij • Linux Ubuntu
 
 ### Em que estou trabalhando
 - Aprofundando o domínio em **Java** através da construção de pequenos projetos e estudo constante de fundamentos.
