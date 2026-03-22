@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou o Rafael! 👋
 
-<!--
-**rafaelrossmann/rafaelrossmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um **Desenvolvedor Backend** em formação. Atualmente, estou construindo uma base sólida de conhecimentos para iniciar minha carreira na área de TI, valorizando os fundamentos da programação e a resolução de problemas reais.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na Unisinos.
+- 💻 Aluno do curso técnico em **Desenvolvimento de Sistemas** no Senac.
+- 🌱 No momento, estou mergulhando de cabeça no ecossistema **Java** e banco de dados **MySQL**.
+- 🎯 Meu objetivo atual: Conquistar minha primeira vaga como Desenvolvedor Júnior.
+- ⚡ Uso Ubuntu como meu ambiente principal de desenvolvimento e organizo toda a minha rotina e documentação usando Trello e Obsidian.
+
+## 🛠️ Tecnologias e Ferramentas
+
+* **Linguagens & Frameworks:** Java | Spring Boot
+* **Banco de Dados:** MySQL
+* **Ambiente & Ferramentas:** Ubuntu | IntelliJ IDEA Ultimate | Git & GitHub
+
+## 🔭 O que estou construindo no momento
+
+- **Repositório de Fundamentos Java:** Mantendo um repositório ativo com exercícios e pequenos projetos para documentar meu aprendizado constante e evolução lógica.
+- **Grão Literário:** Desenvolvendo um software de gestão para uma livraria/cafeteria, atuando como Projeto Integrador do meu curso técnico.
+
+## 📫 Como entrar em contato comigo
+
+- **LinkedIn:** [https://www.linkedin.com/in/rafael-rossmann-dev/]
+- **E-mail:** [rafaelrossmann.dev@gmail.com]
+- **Instagram:** [https://www.instagram.com/rafaelrossmann_dev/]
